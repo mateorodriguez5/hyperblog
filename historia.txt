@@ -1,3 +1,9 @@
 Yo soy...
+<<<<<<< HEAD
 master 1
 master 2
+=======
+experimento 1
+experimento 2
+master 1
+>>>>>>> b9844fc... exp2
